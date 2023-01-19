@@ -1,3 +1,5 @@
 fp-info-cache
 kicad/#auto_saved_files#
 kicad/*-backups
+plot/
+.DS_Store
