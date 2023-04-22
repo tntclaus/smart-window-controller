@@ -1,0 +1,3 @@
+[submodule "scad/lib/bead_chain_sprocket"]
+	path = scad/lib/bead_chain_sprocket
+	url = https://github.com/eraga/bead_chain_sprocket
